@@ -35,4 +35,4 @@ Using the tray icon menu (right click) you can access this help file, and the co
 Compose Key Table
 -----------------
 
-These are the various "compose key options":http://hermit.org/Linux/ComposeKeys.html, all 385 of them!
+These are the various [compose key options](http://hermit.org/Linux/ComposeKeys.html), all 385 of them!
