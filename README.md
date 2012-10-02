@@ -1,14 +1,16 @@
 Compose Keys
 ============
 
-"Compose Keys" mimics the functionality of the "Compose" key on Linux computers, and allows you to type accented letters and special symbols using a modifier key followed by 2-letter combinations.
+**"compose-keys"** mimics the functionality of the "Compose" key on Linux computers, and allows you to type accented letters and special symbols by pressing a modifier key followed by intuitive 2-letter combinations.
 
 Installation
 ------------
 
-Copy the "compose-keys" folder to somewhere on your computer, then double-click the "compose.exe" file to start the program.  You can of course create a shortcut to this file if you need to.  There is also a 64bit version ("compose64.exe") for those who prefer it.
+Download the latest version of [compose-keys](https://github.com/downloads/MrBertie/compose-keys/ComposeKeys-20121002.zip).  Unzip it, and copy the contents to a folder on your computer. Then double-click the "compose.exe" file to start the program.  You can of course create a shortcut to this file if you need to.  There is also a 64bit version ("compose64.exe") for those who prefer it.
 
-> It is written in AutoHotKey, compiled to an .exe, and would not be possible without the help/libraries of many others on the AHK forum.  Thank you all!
+A new icon will appear in your tray menu; this controls "compose-keys".  Right-click to access the menu to Enable/Disable, change Settings, to Restart and to view the Help file.  At the top of the menu you can also see the currently active "modifier key".
+
+> "compose-keys" is written in AutoHotKey, compiled to an .exe, and would not be possible without the help/libraries of many others on the AHK forum.  Thank you all!
 
 How To Use
 ----------
