@@ -12,7 +12,8 @@ A new icon will appear in your tray menu; this controls "compose-keys".  Right-c
 
 > "compose-keys" is written in AutoHotKey, compiled to an .exe, and would not be possible without the help/libraries of many others on the AHK forum.  Thank you all!
 
-If you find compose-keys useful please consider [donating](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZGNMG6V478M4).
+If you find compose-keys useful and would like to express your appreciation, please consider [**donating**](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DZGNMG6V478M4).
+
 How To Use
 ----------
 
