@@ -6,7 +6,7 @@ Compose Keys
 Installation
 ------------
 
-Download the latest version of [compose-keys](https://github.com/downloads/MrBertie/compose-keys/ComposeKeys-20121002.zip).  It is a portable application: unzip it, and copy the contents to a folder on your computer. Then double-click the "compose.exe" file to start the program.  You can of course create a shortcut to this file if you need to.  There is also a 64bit version ("compose64.exe") for those who need/prefer it.
+Download the latest version of compose-keys using the **Zip** button above.  It is a portable application: unzip it, and copy the contents to a folder on your computer. Then double-click the "compose.exe" file to start the program.  You can of course create a shortcut to this file if you need to.  There is also a 64bit version ("compose64.exe") for those who need/prefer it.
 
 A new icon will appear in your tray menu; this controls "compose-keys".  Right-click to access the menu to Enable/Disable, change Settings, to Restart and to view the Help file.  At the top of the menu you can also see the currently active "modifier key".
 
