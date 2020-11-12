@@ -39,7 +39,7 @@ Using the tray icon menu (right click) you can access this help file, and the co
 
 3. **UseCapslock** : Also use the Capslock key as a modifier.  The normal Capslock function can be accessed via "Shift + Capslock" or "Ctrl + Capslock".
 
-4. **ResetDelay** : delay (in microseconds: 1000 = 1 sec) before the modifier key is reset, to prevent unwanted key compositions.  Default = 2000ms
+4. **ResetDelay** : delay (in milliseconds: 1000 = 1 sec) before the modifier key is reset, to prevent unwanted key compositions.  Default = 2000ms
 
 Compose Key Table
 -----------------
